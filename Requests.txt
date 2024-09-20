@@ -1,0 +1,31 @@
+# Create simple Order!
+req = {
+    "id": 1,
+    "method": "private/create-order",
+    "api_key": API_KEY,
+    "params": {
+        "instrument_name": "ETHUSD-PERP",
+        "side": "BUY",
+        "type": "LIMIT",
+        "price": "2450.00",
+        "quantity": "0.001"
+        #"client_oid": "c5f682ed-7108-4f1c-b755-972fcdca0f02",
+        #"exec_inst": ["POST_ONLY"],
+        #"time_in_force": "FILL_OR_KILL"
+    },
+    "nonce": int(time.time() * 1000)
+}
+
+
+# Close position
+
+req = {
+    "id": 1,
+    "method": "private/close-position",
+    "api_key": API_KEY,
+    "params": {
+        "instrument_name": "ETHUSD-PERP",
+        "type": "MARKET"
+    },
+    "nonce": int(time.time() * 1000)
+}
