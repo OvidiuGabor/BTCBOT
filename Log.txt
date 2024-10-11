@@ -1,0 +1,203 @@
+2024-09-26 18:27:54
+App started 
+-------------------------------------------- 
+2024-09-26 18:27:54
+App started 
+-------------------------------------------- 
+2024-09-26 18:29:06
+2024-09-26 18:29:19
+2024-09-26 18:32:26
+App started 
+-------------------------------------------- 
+2024-09-26 18:33:14
+App started 
+-------------------------------------------- 
+2024-09-26 18:33:14
+App started 
+-------------------------------------------- 
+2024-09-26 18:33:41
+2024-09-26 18:34:39
+App started 
+-------------------------------------------- 
+2024-09-26 18:35:16
+App started 
+-------------------------------------------- 
+2024-09-26 18:35:16
+App started 
+-------------------------------------------- 
+2024-09-26 18:35:24
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "SOLUSD-PERP", "side": "BUY", "type": "MARKET", "price": "2450.00", "quantity": "0.01"}, "nonce": 1727375723726, "sig": "e2a832d26667c51041e5bb68d581285626454dc3bfed0865df7e0f43889381a5"}
+{"id": 1, "method": "private/create-order", "code": 0, "result": {"client_oid": "1", "order_id": "4989988512897909916"}}
+-------------------------------------------- 
+2024-09-26 18:37:48
+{"id": 1, "method": "private/close-position", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "SOLUSD-PERP", "type": "MARKET"}, "nonce": 1727375867879, "sig": "6c9e15c4a809e6b7e11f2fcd18672a1a5fcef1852deff25a53642174941015d3"}
+{"id": 1, "method": "private/close-position", "code": 0, "result": {"client_oid": "17f8df33-3728-5cd1-215f-75d85b7a5ba9", "order_id": "4989988512898557547"}}
+-------------------------------------------- 
+2024-09-27 06:41:18
+{"id": 1, "method": "private/close-position", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "SOLUSD-PERP", "type": "MARKET"}, "nonce": 1727419277802, "sig": "664bb537ea63e08c884e6f073e07be8196c1945ebd9025ab84597e291613829a"}
+{"id": 1, "method": "private/close-position", "code": 317, "message": "POSITION_NO_EXIST"}
+-------------------------------------------- 
+2024-09-27 07:10:05
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "SOLUSD-PERP", "side": "SELL", "type": "MARKET", "price": "2450.00", "quantity": "3.184"}, "nonce": 1727421005503, "sig": "f3a918f1bbebeefe62d266462f7c2456522facf48315ca14abbf6b665d383f1c"}
+{"id": 1, "method": "private/create-order", "code": 213, "message": "Invalid quantity format"}
+-------------------------------------------- 
+2024-09-27 14:24:04
+{"id": 1, "method": "private/close-position", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "SOLUSD-PERP", "type": "MARKET"}, "nonce": 1727447044352, "sig": "1c39310c28182e3a07aacdd0a468df25fdc421b5c600a832050a751cb84283df"}
+{"id": 1, "method": "private/close-position", "code": 317, "message": "POSITION_NO_EXIST"}
+-------------------------------------------- 
+2024-09-27 14:25:30
+{"id": 1, "method": "private/close-position", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "ETHUSD-PERP", "type": "MARKET"}, "nonce": 1727447130578, "sig": "53953c954a8d5d79d26674ac408ad627da5b243421dc32a2390382df5734557b"}
+{"id": 1, "method": "private/close-position", "code": 317, "message": "POSITION_NO_EXIST"}
+-------------------------------------------- 
+2024-09-27 16:33:21
+{"id": 1, "method": "private/close-position", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "ETHUSD-PERP", "type": "MARKET"}, "nonce": 1727454801116, "sig": "89232536b41c4689d0e86b14c5bc888434d25484815cce4bab741e23ae5882e4"}
+{"id": 1, "method": "private/close-position", "code": 317, "message": "POSITION_NO_EXIST"}
+-------------------------------------------- 
+2024-09-27 17:25:03
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "ETHUSD-PERP", "side": "SELL", "type": "MARKET", "price": "2450.00", "quantity": "0.1854"}, "nonce": 1727457903242, "sig": "5353f144acb46854e10635615d99d05c51c45da0769880ad09b0eb770c96e668"}
+{"id": 1, "method": "private/create-order", "code": 0, "result": {"client_oid": "1", "order_id": "4989988513143588328"}}
+-------------------------------------------- 
+2024-09-30 02:11:11
+{"id": 1, "method": "private/close-position", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "ETHUSD-PERP", "type": "MARKET"}, "nonce": 1727662271526, "sig": "d96186dc8a86a12cef71e2663d9760603fe0efb6d98c204b68084e295a7e7934"}
+{"id": 1, "method": "private/close-position", "code": 0, "result": {"client_oid": "17f9e3ae-bdea-9a1e-4316-719654b9f9d3", "order_id": "4989988513834194807"}}
+-------------------------------------------- 
+2024-09-30 04:00:08
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "ETHUSD-PERP", "side": "BUY", "type": "MARKET", "price": "2450.00", "quantity": "0.19"}, "nonce": 1727668808211, "sig": "423b460af01f1af27993c2b148bea288205647f0cf70e07943adad0b52f0f791"}
+{"id": 1, "method": "private/create-order", "code": 0, "result": {"client_oid": "1", "order_id": "4989988513860554856"}}
+-------------------------------------------- 
+2024-09-30 18:17:41
+{"id": 1, "method": "private/close-position", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "ETHUSD-PERP", "type": "MARKET"}, "nonce": 1727720261605, "sig": "e60e70a332c87933be371e37c0ea67fee517942c0a1cb477145fb3c0ff726aba"}
+{"id": 1, "method": "private/close-position", "code": 0, "result": {"client_oid": "17fa186c-9f62-6aa9-3cf9-47264b155d5b", "order_id": "4989988514052500722"}}
+-------------------------------------------- 
+2024-09-30 20:10:04
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "ETHUSD-PERP", "side": "BUY", "type": "MARKET", "price": "2450.00", "quantity": "0.1919"}, "nonce": 1727727003892, "sig": "d56ba4aeafdd42d3e650b5317015744af3f47e59a59b75eabc8389953521c8d3"}
+{"id": 1, "method": "private/create-order", "code": 0, "result": {"client_oid": "1", "order_id": "4989988514077511012"}}
+-------------------------------------------- 
+2024-09-30 22:16:22
+{"id": 1, "method": "private/close-position", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "TIAUSD-PERP", "type": "MARKET"}, "nonce": 1727734581645, "sig": "97a5c5fd4992f7ea19d9725f93e82450e6592e8b330c87d17141669fe069cc5c"}
+{"id": 1, "method": "private/close-position", "code": 317, "message": "POSITION_NO_EXIST"}
+-------------------------------------------- 
+2024-10-01 00:30:07
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "TIAUSD-PERP", "side": "BUY", "type": "MARKET", "price": "2450.00", "quantity": "89.174"}, "nonce": 1727742607638, "sig": "2e4420073c0554a9b21dd7f3e67bbbb15aa4d4e41f5cccabf135f265ea6ae9a2"}
+{"id": 1, "method": "private/create-order", "code": 213, "message": "Invalid quantity format"}
+-------------------------------------------- 
+2024-10-01 03:44:52
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "TIAUSD-PERP", "side": "BUY", "type": "MARKET", "price": "2450.00", "quantity": "0.01"}, "nonce": 1727754292211, "sig": "0cd4a7306a502b78bf2ac200617301db70755e3a3a708cf1b3970d3345055e80"}
+{"id": 1, "method": "private/create-order", "code": 213, "message": "Invalid quantity format"}
+-------------------------------------------- 
+2024-10-01 03:45:02
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "TIAUSD-PERP", "side": "BUY", "type": "MARKET", "price": "2450.00", "quantity": "0.01"}, "nonce": 1727754301795, "sig": "8fa31f8586999da63b7d97baa0e1dec0240930374eab09cd3f8668f4d5753c91"}
+{"id": 1, "method": "private/create-order", "code": 213, "message": "Invalid quantity format"}
+-------------------------------------------- 
+2024-10-01 03:45:29
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "TIAUSD-PERP", "side": "BUY", "type": "MARKET", "price": "2450.00", "quantity": "89.1741"}, "nonce": 1727754329071, "sig": "33ea12169391c56268dcce1f8228a44e688529634b5a5489b65755970da71923"}
+{"id": 1, "method": "private/create-order", "code": 213, "message": "Invalid quantity format"}
+-------------------------------------------- 
+2024-10-01 03:45:34
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "TIAUSD-PERP", "side": "BUY", "type": "MARKET", "price": "2450.00", "quantity": "89.174100"}, "nonce": 1727754334577, "sig": "157bb9f14df6464f9a31c8a410f05fb8ad49dd9bd2700e385b60266689a36aee"}
+{"id": 1, "method": "private/create-order", "code": 213, "message": "Invalid quantity format"}
+-------------------------------------------- 
+2024-10-01 03:45:41
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "TIAUSD-PERP", "side": "BUY", "type": "MARKET", "price": "2450.00", "quantity": "89.17"}, "nonce": 1727754340742, "sig": "5b1e005cc5d56736a892fa4909ff3282ef82f3bbf1dffea7cb45f6d6aea1460f"}
+{"id": 1, "method": "private/create-order", "code": 213, "message": "Invalid quantity format"}
+-------------------------------------------- 
+2024-10-01 03:45:50
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "TIAUSD-PERP", "side": "BUY", "type": "MARKET", "price": "2450.00", "quantity": "89"}, "nonce": 1727754350033, "sig": "f763ec9be27c7623857a69385623f2d71fec10f507cae87a9803f84f57bca1b0"}
+{"id": 1, "method": "private/create-order", "code": 0, "result": {"client_oid": "1", "order_id": "4989988514173630387"}}
+-------------------------------------------- 
+2024-10-01 14:36:06
+{"id": 1, "method": "private/close-position", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "ETHUSD-PERP", "type": "MARKET"}, "nonce": 1727793365797, "sig": "54f450f70b974418c46ced31c11ed4ff7af8188a2ee22cbb4902afe0b76cca73"}
+{"id": 1, "method": "private/close-position", "code": 0, "result": {"client_oid": "17fa5ae9-86aa-6b7c-5ea4-c27349686500", "order_id": "4989988514315671331"}}
+-------------------------------------------- 
+2024-10-01 15:03:05
+{"id": 1, "method": "private/close-position", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "TIAUSD-PERP", "type": "MARKET"}, "nonce": 1727794984469, "sig": "9be4c18714b633fbe8110c96064f205f3d3c0f027ddd93c69877357a30d0dbb5"}
+{"id": 1, "method": "private/close-position", "code": 0, "result": {"client_oid": "17fa5c62-65d9-5368-3bf3-2d1c3327dc27", "order_id": "4989988514324787831"}}
+-------------------------------------------- 
+2024-10-01 17:15:13
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "TIAUSD-PERP", "side": "SELL", "type": "MARKET", "price": "2450.00", "quantity": "97.503"}, "nonce": 1727802913426, "sig": "c7a9e7ff1be1b3db8020e5da314e1a41c4f192f87038728216b9a319d18dae5d"}
+{"id": 1, "method": "private/create-order", "code": 213, "message": "Invalid quantity format"}
+-------------------------------------------- 
+2024-10-01 17:26:22
+App started 
+-------------------------------------------- 
+2024-10-01 17:27:14
+App started 
+-------------------------------------------- 
+2024-10-01 17:27:15
+App started 
+-------------------------------------------- 
+2024-10-01 17:29:01
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "TIAUSD-PERP", "side": "SELL", "type": "MARKET", "price": "2450.00", "quantity": "98"}, "nonce": 1727803740752, "sig": "dd4e812de7601d1d687497e8512c911d11eccb5ed971c75625f05b782b9be722"}
+{"id": 1, "method": "private/create-order", "code": 0, "result": {"client_oid": "1", "order_id": "4989988514375330155"}}
+-------------------------------------------- 
+2024-10-01 20:25:03
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "ETHUSD-PERP", "side": "SELL", "type": "MARKET", "price": "2450.00", "quantity": "0.2029"}, "nonce": 1727814302255, "sig": "9fc4605df423e5461475ed738d4267745e1bf515630358d6cb6f61ab2088a936"}
+{"id": 1, "method": "private/create-order", "code": 0, "result": {"client_oid": "1", "order_id": "4989988514423809232"}}
+-------------------------------------------- 
+2024-10-01 20:35:49
+{"id": 1, "method": "private/close-position", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "BTCUSD-PERP", "type": "MARKET"}, "nonce": 1727814949597, "sig": "4789f45bb98c4f8da9e331ac833496adba1dc4acf868540ac8eff41fed081f3e"}
+{"id": 1, "method": "private/close-position", "code": 317, "message": "POSITION_NO_EXIST"}
+-------------------------------------------- 
+2024-10-02 09:00:50
+{"id": 1, "method": "private/close-position", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "TIAUSD-PERP", "type": "MARKET"}, "nonce": 1727859649774, "sig": "bb428dbe058e12a9893342f2264d7e120c67df33193a6ffcd5450ec23a285120"}
+{"id": 1, "method": "private/close-position", "code": 0, "result": {"client_oid": "17fa9732-7633-9930-5fb8-c35186aab9b2", "order_id": "4989988514583628968"}}
+-------------------------------------------- 
+2024-10-02 09:45:07
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "TIAUSD-PERP", "side": "SELL", "type": "MARKET", "price": "2450.00", "quantity": "95"}, "nonce": 1727862307569, "sig": "ab0e36f86d08d4466b78fc0acc21a9f84bbbb74c3483a19da3aa4cd9b8e502f5"}
+{"id": 1, "method": "private/create-order", "code": 0, "result": {"client_oid": "1", "order_id": "4989988514593997079"}}
+-------------------------------------------- 
+2024-10-02 18:58:15
+{"id": 1, "method": "private/close-position", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "TIAUSD-PERP", "type": "MARKET"}, "nonce": 1727895494864, "sig": "d6dd7d0c7c35ba511ee5059e52a6b6106ff156481bcc28b0f7f4455a4dbaa63e"}
+{"id": 1, "method": "private/close-position", "code": 0, "result": {"client_oid": "17fab7cc-4b43-9d3a-0f41-754541d0bf68", "order_id": "4989988514743848985"}}
+-------------------------------------------- 
+2024-10-02 22:11:57
+{"id": 1, "method": "private/close-position", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "ETHUSD-PERP", "type": "MARKET"}, "nonce": 1727907117568, "sig": "dcb51a19970e2f734d42e521b05af2a4305c5cbf2cc7e4cc7c9f7e5b9b2be29f"}
+{"id": 1, "method": "private/close-position", "code": 0, "result": {"client_oid": "17fac25e-67bf-6d86-3180-beeab1328f09", "order_id": "4989988514794439340"}}
+-------------------------------------------- 
+2024-10-03 00:35:02
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "ETHUSD-PERP", "side": "BUY", "type": "MARKET", "price": "2450.00", "quantity": "0.2103"}, "nonce": 1727915702210, "sig": "c1333fed6fc142604e203992944dd9d7f2e0feb21758c5233036dbc4087d3e55"}
+{"id": 1, "method": "private/create-order", "code": 0, "result": {"client_oid": "1", "order_id": "4989988514823535497"}}
+-------------------------------------------- 
+2024-10-03 00:40:04
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "TIAUSD-PERP", "side": "BUY", "type": "MARKET", "price": "2450.00", "quantity": "102"}, "nonce": 1727916004419, "sig": "b8e19613f29119330b696801da31a2318c78c43fb1fc3b058a34d0122a3e9caf"}
+{"id": 1, "method": "private/create-order", "code": 0, "result": {"client_oid": "1", "order_id": "4989988514825018392"}}
+-------------------------------------------- 
+2024-10-03 09:04:31
+{"id": 1, "method": "private/close-position", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "TIAUSD-PERP", "type": "MARKET"}, "nonce": 1727946270660, "sig": "8e0a3cbae69e7fa534f70ee85da5fa9ff70672bffed8bb0bcf03949cb54169a8"}
+{"id": 1, "method": "private/close-position", "code": 0, "result": {"client_oid": "17fae5fa-797e-3575-73b6-52b4aedbeb5b", "order_id": "4989988514925275353"}}
+-------------------------------------------- 
+2024-10-03 09:40:04
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "TIAUSD-PERP", "side": "BUY", "type": "MARKET", "price": "2450.00", "quantity": "106"}, "nonce": 1727948404492, "sig": "bafcba1d3b64e3fac16c540b1ce02aaa4db335d102f45598316569edbe7d822f"}
+{"id": 1, "method": "private/create-order", "code": 0, "result": {"client_oid": "1", "order_id": "4989988514934807753"}}
+-------------------------------------------- 
+2024-10-04 13:00:16
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "BTCUSD-PERP", "side": "BUY", "type": "MARKET", "price": "2450.00", "quantity": "0.00807"}, "nonce": 1728046816162, "sig": "779fc75a681068fda98201d699c220c99ece81566a089b74eacfeee2fb5aef6d"}
+{"id": 1, "method": "private/create-order", "code": 213, "message": "Invalid quantity format"}
+-------------------------------------------- 
+2024-10-04 15:10:21
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "BTCUSD-PERP", "side": "BUY", "type": "MARKET", "price": "2450.00", "quantity": "0.00807"}, "nonce": 1728054620797, "sig": "d27a2204eb028f2b974e6e4f72ec16e5bfd82e74ca0013b43d76d058891db77b"}
+{"id": 1, "method": "private/create-order", "code": 213, "message": "Invalid quantity format"}
+-------------------------------------------- 
+2024-10-04 15:10:40
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "BTCUSD-PERP", "side": "BUY", "type": "MARKET", "price": "2450.00", "quantity": "0.0081"}, "nonce": 1728054639775, "sig": "fff6565a0f00d0395a90aa0eed9181b3331e15683aaf3d206d2b3028b201b03c"}
+{"id": 1, "method": "private/create-order", "code": 0, "result": {"client_oid": "1", "order_id": "4989988515351421353"}}
+-------------------------------------------- 
+2024-10-05 06:19:59
+{"id": 1, "method": "private/create-order", "api_key": "YEX5Khh6dqQ2jPG9gP7XwP", "params": {"instrument_name": "PIXELUSD-PERP", "side": "BUY", "type": "MARKET", "price": "2450.00", "quantity": "1"}, "nonce": 1728109198775, "sig": "c7ac29520c7dae50ad21a8b65c20adba192837a04f0899abbb59455ed0bd1e74"}
+{"id": 1, "method": "private/create-order", "code": 0, "result": {"client_oid": "1", "order_id": "4989988515521957375"}}
+-------------------------------------------- 
+2024-10-05 06:27:23
+App started 
+-------------------------------------------- 
+2024-10-05 06:27:42
+App started 
+-------------------------------------------- 
+2024-10-05 06:27:43
+App started 
+-------------------------------------------- 
+2024-10-09 20:34:49
+App started 
+-------------------------------------------- 
+2024-10-09 20:34:50
+App started 
+-------------------------------------------- 

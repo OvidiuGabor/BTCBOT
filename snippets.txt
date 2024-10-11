@@ -1,0 +1,12 @@
+#username = "doadmin"
+#password = "86x5SI41gUp072fC"
+#host = "mongodb+srv://tradingbotdb-39d2c47b.mongo.ondigitalocean.com"
+#database = "admin"
+
+#For insterting data into the mongo db. 
+#The data in mongo db is similar as a json structure, not like a line in the conventional db
+#collection.insert_one(postAPI)
+#collection.insert_one(postSecret)
+#collection.insert_many([postAPI, postSecret])
+#result = collection.find_one({"_id" : "API_KEY"})
+#print(result["value"])
