@@ -2,6 +2,7 @@ import workingwithdb
 import time
 import hashlib
 import hmac
+from decimal import Decimal
 
 
 #GEt object in an array
@@ -13,7 +14,7 @@ def search_object(arr, key, value):
 #round the number to specific decimals
 def round_dynamic(number, decimals):
     if decimals == 0:
-        return int(round(number))
+        return int(round(Decimal(number)))
     return round(number, decimals)
 
 #set the params property in the request to string

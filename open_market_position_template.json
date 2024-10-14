@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "method": "private/create-order",
+    "api_key": "API_KEY",
+    "params": {
+        "instrument_name": "",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": "2450.00",
+        "quantity": "0.001"
+    },
+    "nonce": 0
+}

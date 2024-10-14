@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "method": "private/close-position",
+    "api_key": "API_KEY",
+    "params": {
+        "instrument_name": "",
+        "type": "MARKET"
+    },
+    "nonce": 0
+}
